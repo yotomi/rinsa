@@ -1,6 +1,19 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"天城燐音x乱凪砂 收录馆",
+    "displayTitle":"天城燐音x乱凪砂 收录馆",
+    "subTitle":"Amagi Rinne x Ran Nagisa",
+    "avatarUrl":"https://yotomi.github.io/rinsa/avatar1.png",
+    "GMEEK_VERSION":"last",
+    "i18n":"CN",
+    "startSite":"11/10/2024",
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"dark",
+    "urlMode":"issue",
+    "needComment":1,
+    "singlePage":["link","about"],
+    "onePageListNum":15,
+    "bottomText":"可以分享收录馆地址给你信任的人❤ 请勿无授权转载",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
