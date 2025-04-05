@@ -15,7 +15,7 @@
 页签用法：
 点击首页如图位置的搜索按钮会进入显示所有标签的汇总页面
 
-<!-- Failed to upload "6E898A136E4AFE67D2F9D51C52BD19AE.png" -->
+![Image](https://github.com/user-attachments/assets/d9064ad0-6176-4acc-8f5f-62ff27c8063d)
 
 也可以在首页点击文章右侧的标签进入仅有此标签的文章的汇总页面
 ![Image](https://github.com/user-attachments/assets/54cfb4f3-3c5e-4a57-8a10-04625ecd48d4)
